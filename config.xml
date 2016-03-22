@@ -6,7 +6,7 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-<name>SAC</name>
+<name>SAC_Intranet</name>
 <description>
   Sistema de Asesoria Comercial
 </description>
